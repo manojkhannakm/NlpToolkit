@@ -1,7 +1,7 @@
 package com.manojkhannakm.nlptoolkit.language.tamil;
 
-import com.manojkhannakm.nlptoolkit.document.Sentence;
 import com.manojkhannakm.nlptoolkit.document.Paragraph;
+import com.manojkhannakm.nlptoolkit.document.Sentence;
 import com.manojkhannakm.nlptoolkit.document.Word;
 import com.manojkhannakm.nlptoolkit.toolkit.Toolkit;
 import com.manojkhannakm.nlptoolkit.toolkit.tagger.SimpleTagger;

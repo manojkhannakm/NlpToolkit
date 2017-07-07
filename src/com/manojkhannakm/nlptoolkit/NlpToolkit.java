@@ -2,10 +2,10 @@ package com.manojkhannakm.nlptoolkit;
 
 import com.manojkhannakm.nlptoolkit.document.Document;
 import com.manojkhannakm.nlptoolkit.language.english.EnglishToolkit;
+import com.manojkhannakm.nlptoolkit.language.tamil.TamilToolkit;
 import com.manojkhannakm.nlptoolkit.toolkit.Toolkit;
 import com.manojkhannakm.nlptoolkit.util.IoUtils;
 import com.manojkhannakm.nlptoolkit.util.TimeUtils;
-import com.manojkhannakm.nlptoolkit.language.tamil.TamilToolkit;
 
 import java.io.File;
 import java.io.IOException;

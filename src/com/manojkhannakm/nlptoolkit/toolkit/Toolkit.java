@@ -1,5 +1,6 @@
 package com.manojkhannakm.nlptoolkit.toolkit;
 
+import com.manojkhannakm.nlptoolkit.NlpToolkit;
 import com.manojkhannakm.nlptoolkit.document.Document;
 import com.manojkhannakm.nlptoolkit.toolkit.cleaner.Cleaner;
 import com.manojkhannakm.nlptoolkit.toolkit.cleaner.SimpleCleaner;
@@ -7,7 +8,6 @@ import com.manojkhannakm.nlptoolkit.toolkit.tagger.SimpleTagger;
 import com.manojkhannakm.nlptoolkit.toolkit.tagger.Tagger;
 import com.manojkhannakm.nlptoolkit.toolkit.tokenizer.SimpleTokenizer;
 import com.manojkhannakm.nlptoolkit.toolkit.tokenizer.Tokenizer;
-import com.manojkhannakm.nlptoolkit.NlpToolkit;
 
 import java.io.IOException;
 

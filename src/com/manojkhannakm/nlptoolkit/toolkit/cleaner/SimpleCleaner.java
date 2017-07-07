@@ -1,8 +1,8 @@
 package com.manojkhannakm.nlptoolkit.toolkit.cleaner;
 
 import com.manojkhannakm.nlptoolkit.document.Document;
-import com.manojkhannakm.nlptoolkit.util.StringUtils;
 import com.manojkhannakm.nlptoolkit.toolkit.Toolkit;
+import com.manojkhannakm.nlptoolkit.util.StringUtils;
 
 import java.io.IOException;
 import java.util.Arrays;

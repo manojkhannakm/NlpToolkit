@@ -2,7 +2,7 @@
   <artifact type="jar" name="NlpToolkit:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/NlpToolkit_jar</output-path>
     <root id="archive" name="NlpToolkit.jar">
-      <element id="module-output" name="NlpToolkit" />
+      <element id="module-output" name="nlp-toolkit" />
       <element id="extracted-dir" path="$PROJECT_DIR$/lib/slf4j-api.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$PROJECT_DIR$/lib/slf4j-simple.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$PROJECT_DIR$/lib/stanford-postagger.jar" path-in-jar="/" />

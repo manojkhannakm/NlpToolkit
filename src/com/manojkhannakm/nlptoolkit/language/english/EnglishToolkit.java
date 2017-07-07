@@ -1,9 +1,9 @@
 package com.manojkhannakm.nlptoolkit.language.english;
 
-import com.manojkhannakm.nlptoolkit.toolkit.Charset;
-import com.manojkhannakm.nlptoolkit.toolkit.cleaner.Cleaner;
 import com.manojkhannakm.nlptoolkit.NlpToolkit;
+import com.manojkhannakm.nlptoolkit.toolkit.Charset;
 import com.manojkhannakm.nlptoolkit.toolkit.Toolkit;
+import com.manojkhannakm.nlptoolkit.toolkit.cleaner.Cleaner;
 
 /**
  * @author Manoj Khanna

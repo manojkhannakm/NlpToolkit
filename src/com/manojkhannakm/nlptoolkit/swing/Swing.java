@@ -1,9 +1,9 @@
 package com.manojkhannakm.nlptoolkit.swing;
 
 import com.manojkhannakm.nlptoolkit.Constants;
-import com.manojkhannakm.nlptoolkit.document.Sentence;
 import com.manojkhannakm.nlptoolkit.NlpToolkit;
 import com.manojkhannakm.nlptoolkit.document.Paragraph;
+import com.manojkhannakm.nlptoolkit.document.Sentence;
 import com.manojkhannakm.nlptoolkit.document.Word;
 import com.manojkhannakm.nlptoolkit.toolkit.Toolkit;
 import com.manojkhannakm.nlptoolkit.toolkit.cleaner.SimpleCleaner;
